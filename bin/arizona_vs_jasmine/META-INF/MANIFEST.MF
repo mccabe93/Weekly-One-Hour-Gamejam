@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Class-Path: . arizona_vs_jasmine_lib/lwjgl.jar arizona_vs_jasmine_lib/
+ natives-windows.jar arizona_vs_jasmine_lib/slick.jar arizona_vs_jasmi
+ ne_lib/jorbis-0.0.15.jar arizona_vs_jasmine_lib/jogg-0.0.7.jar
+Main-Class: Week9
+
